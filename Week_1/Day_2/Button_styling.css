@@ -1,0 +1,25 @@
+.search{
+    background-color: white;
+    border-color: aquamarine;
+    color:aquamarine;
+    border-radius: 35px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    margin-left:20px;
+    width: 120px;
+}
+.circle{
+    margin-left:20px;
+    margin-bottom: 15px;
+    background-color: aquamarine;
+    border-color: aquamarine;
+    color:white;
+    border-radius: 50%;
+}
+.new{
+    margin-left:20px;
+    width: 130px;
+    background-color: dodgerblue;
+    color:white;
+    box-shadow: 10px 5px 5px black;
+}
